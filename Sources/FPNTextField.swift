@@ -6,6 +6,7 @@
 //  Copyright (c) 2017 Aurélien Grifasi. All rights reserved.
 //
 
+import libPhoneNumber
 import UIKit
 
 open class FPNTextField: UITextField {
